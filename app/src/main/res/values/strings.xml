@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">GameKu</string>
+    <string name="spek">SYSTEM REQUIREMENTS</string>
+    <string name="minimum">MINIMUM:</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/dota2</item>
+        <item>@drawable/cs2</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/troublemaker</item>
+        <item>@drawable/spaceunbond</item>
+        <item>@drawable/rdr2</item>
+        <item>@drawable/farcry2</item>
+        <item>@drawable/farcry3</item>
+        <item>@drawable/farcry4</item>
+        <item>@drawable/farcry5</item>
+    </integer-array>
+
+    <string-array name="data_nama">
+        <item>Dota 2</item>
+        <item>Counter Strike 2</item>
+        <item>PUBG</item>
+        <item>Troublemaker</item>
+        <item>A Space for The Unbond</item>
+        <item>Red Dead Redemption 2</item>
+        <item>Far cry 2</item>
+        <item>Far cry 3</item>
+        <item>Far cry 4</item>
+        <item>Far cry 5</item>
+
+    </string-array>
+
+
+    <string-array name="data_isi">
+        <item>Dota 2 adalah permainan strategi dimana pemain harus bekerja sama satu sama lain dalam satu tim untuk mengalahkan tim lain. Dalam satu tim di permainan ini terdapat lima pemain yang masing-masing akan memainkan satu karakter hero yang memiliki kemampuan berbeda-beda.</item>
+        <item>Counter-Strike 2 adalah game penembak orang pertama taktis multipemain tahun 2023 yang dikembangkan dan diterbitkan oleh Valve . Ini adalah angsuran utama kelima dari seri Counter-Strike . Dikembangkan sebagai versi terbaru dari entri utama sebelumnya, Counter-Strike: Global Offensive (2012), diumumkan pada 22 Maret 2023, dan dirilis pada 27 September 2023, menggantikan Global Offensive di Steam </item>
+        <item>PUBG adalah sebuah permainan video battle royale gratis dimainkan yang dikembangkan oleh LightSpeed dan Quantum Studio, sebuah divisi dari Tencent Games. </item>
+        <item>Troublemaker menjadi game asal Indonesia asli yang mengangkat tema kehidupan SMA. Uniknya lagi, game tersebut mengharuskan pemain untuk berkelahi dengan siswa lain atau sekolah lain.</item>
+        <item>A Space for the Unbound sendiri merupakan game petualangan slice-of-life side scrolling. Game yang dimulai penggarapannya sebagai proyek kecil di 2015 ini menampilkan cerita coming-of-age dengan latar pedesaan Indonesia di tahun 90-an.</item>
+        <item>Red Dead Redemption 2 adalah permainan video aksi-penjelajahan tahun 2018 yang dikembangkan dan diterbitkan oleh Rockstar Games. Game ini adalah entri ketiga dalam seri Red Dead dan merupakan prekuel dari game Red Dead Redemption tahun 2010.</item>
+        <item>Far Cry 2 adalah penembak orang pertama tahun 2008 yang dikembangkan oleh Ubisoft Montreal dan diterbitkan oleh Ubisoft untuk Microsoft Windows , PlayStation 3 dan Xbox 360 .</item>
+        <item>Far Cry 3 adalah game penembak orang pertama tahun 2012 yang dikembangkan oleh Ubisoft Montreal dan diterbitkan oleh Ubisoft . Ini adalah seri utama ketiga dalam seri Far Cry setelah Far Cry 2 .</item>
+        <item>Far Cry 4 adalah permainan tembak-menembak orang pertama (bahasa Inggris: first-person shooter) yang dikembangkan oleh Ubisoft Montreal dan dirilis oleh Ubisoft pada 18 November 2014. Permainan ini merupakan sekuel dari Far Cry 3 dan permainan keempat dalam serial Far Cry.</item>
+        <item>Far Cry 5 adalah penembak orang pertama tahun 2018 , yang dikembangkan oleh Ubisoft Montreal dan Ubisoft Toronto dan diterbitkan oleh Ubisoft . Ini adalah penerus Far Cry 4 tahun 2014 , dan seri utama kelima dalam seri Far Cry .</item>
+    </string-array>
+
+    <string-array name="data_spek">
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 7 or newer</li>
+        <li>Processor: Dual core from Intel or AMD at 2.8 GHz</li>
+        <li>Memory: 4 GB RAM</li>
+        <li>Graphics: NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600</li>
+        <li>DirectX: Version 11</li>
+        <li>Network: Broadband Internet connection</li>
+        <li>Storage: 60 GB available space</li>
+        <li>Sound Card: DirectX Compatible</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 10</li>
+        <li>Processor: 4 hardware CPU threads - Intel® Core™ i5 750 or higher</li>
+        <li>Memory: 8 GB RAM</li>
+        <li>Graphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0</li>
+        <li>DirectX: Version 11</li>
+        <li>Storage: 85 GB available space</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: 64-bit Windows 10</li>
+        <li>Processor: Intel Core i5-4430 / AMD FX-6300</li>
+        <li>Memory: 8 GB RAM</li>
+        <li>Graphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB</li>
+        <li>DirectX: Version 11</li>
+        <li>Network: Broadband Internet connection</li>
+        <li>Storage: 40 GB available space</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 7 SP1 (64bit version only)</li>
+        <li>Processor: Intel Core i5-2400s @ 2.5 GHz or AMD FX-6100 @ 3.3 GHz</li>
+        <li>Memory: 8 GB RAM</li>
+        <li>Graphics: Nvidia GeForce GTX 1050 or AMD R9 270X</li>
+        <li>DirectX: Version 11</li>
+        <li>Storage: 25 GB available space</li>
+        <li>Sound Card: DirectX compatible using the latest drivers</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 7</li>
+        <li>Processor: Intel Core 2 Duo E6320 (2*1866) or equivalent</li>
+        <li>Memory: 2 GB RAM</li>
+        <li>Graphics: GeForce 7600 GS (512 MB) or equivalent</li>
+        <li>Storage: 3 GB available space</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 10 - April 2018 Update (v1803)</li>
+        <li>Processor: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X</li>
+        <li>Memory: 12 GB RAM</li>
+        <li>Graphics: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB</li>
+        <li>Network: Broadband Internet connection</li>
+        <li>Storage: 150 GB available space</li>
+        <li>Sound Card: Direct X Compatible</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>Supported OS:Microsoft Windows XP or Windows Vista (64 is supported)</li>
+        <li>Processor:Pentium 4 3.2 Ghz, Pentium D 2.66 Ghz, AMD Athlon 64 3500+ or better</li>
+        <li>Memory: 1 GB RAM</li>
+        <li>Graphics: 256 MB, Shader Model 3 required, NVidia 6800 or ATI X1650 or better</li>
+        <li>DirectX®:9.0c</li>
+        <li>Hard Drive:3.5 GB (Multiple saves and user created maps will increase the amount of needed hard disk space.)</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows XP, Windows Vista</li>
+        <li>Processor: Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better</li>
+        <li>Memory: 4 GB RAM</li>
+        <li>Graphics: 512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)</li>
+        <li>DirectX®:9.0c</li>
+        <li>Hard Drive:15 GB HD space</li>
+        <li>Sound:DirectX Compatible (Recommended Surround Sound 5.1 capable)</li>
+        <li>Other Requirements:Broadband Internet connection</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 10 (64-bit)</li>
+        <li>Processor: 2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955</li>
+        <li>Memory: 4 GB RAM</li>
+        <li>Graphics: NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)</li>
+        <li>DirectX: Version 11</li>
+        <li>Network: Broadband Internet connection</li>
+        <li>Storage: 30 GB available space</li>
+        <li>Sound: DirectX-compatible (5.1 surround sound recommended)</li>
+        </ul>
+        ]]></item>
+
+        <item><![CDATA[
+        <ul>
+        <li>OS: Windows 10 (64-bit)</li>
+        <li>Processor: Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent</li>
+        <li>Memory: 8 GB RAM</li>
+        <li>Graphics: NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)</li>
+        <li>DirectX: Version 9.0c</li>
+        <li>Network: Broadband Internet connection</li>
+        <li>Storage: 40 GB available space</li>
+        </ul>
+        ]]></item>
+    </string-array>
+    <string name="title_activity_about">About</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="muhammad_irfan_abigail">MUHAMMAD IRFAN ABIGAIL</string>
+    <string name="abigailobyyy_gmail_com">Abigailobyyy@gmail.com</string>
+
+
+</resources>

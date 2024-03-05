@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/gambarDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                tools:src="@tools:sample/avatars" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/namaJudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            tools:text="nama makanan"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            style="@style/text.judul"/>
+
+        <TextView
+            android:id="@+id/isi_detail"
+            tools:text="desc"
+            style="@style/text.isi"/>
+
+        <TextView
+            android:id="@+id/spek"
+            android:text="@string/spek"
+            style="@style/text.judul"/>
+
+        <TextView
+            android:id="@+id/minimum"
+            android:text="@string/minimum"
+            style="@style/text.min"/>
+
+        <TextView
+            android:id="@+id/isi_spek"
+            style="@style/text.isi"
+            tools:text="speknyo"/>
+    </LinearLayout>
+
+</ScrollView>
